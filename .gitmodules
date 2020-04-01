@@ -1,0 +1,3 @@
+[submodule "src/theme/hugo-hero-theme"]
+	path = src/theme/hugo-hero-theme
+	url = https://github.com/JugglerX/hugo-hero-theme.git
