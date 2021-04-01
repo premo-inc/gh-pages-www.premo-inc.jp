@@ -8,3 +8,6 @@ build:
 
 install:
 	npm install
+
+npm-update:
+	npm update
